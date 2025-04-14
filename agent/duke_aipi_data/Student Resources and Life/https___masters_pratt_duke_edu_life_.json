@@ -1,0 +1,158 @@
+{
+  "url": "https://masters.pratt.duke.edu/life/",
+  "title": "Life at Duke | Duke Engineering Master's Programs",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Life at Duke"
+    },
+    {
+      "level": 2,
+      "text": "Immerse Yourself"
+    },
+    {
+      "level": 2,
+      "text": "A Community of Innovators"
+    },
+    {
+      "level": 2,
+      "text": "Explore the Campus"
+    },
+    {
+      "level": 3,
+      "text": "Go Blue Devils!"
+    },
+    {
+      "level": 2,
+      "text": "Life in Durham"
+    }
+  ],
+  "paragraphs": [
+    "At Duke Engineering, your graduate experience goes beyond the classroom. Immerse yourself in a vibrant, collaborative community that fosters innovation, leadership and personal growth.",
+    "Join a dynamic community where ideas flourish. Our master’s students collaborate across disciplines, bringing fresh perspectives to engineering problems. Participate in hackathons, design sprints and entrepreneurial initiatives that turn concepts into reality.",
+    "More than a mascot, Duke’s Blue Devil personifies the university’s spirit. The character’s origin isn’t infernal, but French. A century ago, students took inspiration from stylish Alpine troopers whose grit had earned them the sobriquet les Diables Bleus.",
+    "Discover a city where local charm and innovation thrive. Savor bold flavors, explore inspiring art, find unique shops, and experience captivating entertainment.Connect with the passionate individuals driving Durham’s vibrant scene and understand why the city’s commitment to local culture makes it an essential destination."
+  ],
+  "lists": [
+    [
+      "Get your student athletics ticket",
+      "Marvel at Gothic architecture",
+      "Tour Duke Chapel",
+      "Stroll in Sarah P. Duke Gardens",
+      "Browse the Nasher Museum of Art",
+      "Catch a Duke Arts performance",
+      "Grab a bite to eat"
+    ]
+  ],
+  "main_text": "Life at Duke\nImmerse Yourself\nAt Duke Engineering, your graduate experience goes beyond the classroom. Immerse yourself in a vibrant, collaborative community that fosters innovation, leadership and personal growth.\nVisit Duke\nA Community of Innovators\nJoin a dynamic community where ideas flourish. Our master’s students collaborate across disciplines, bringing fresh perspectives to engineering problems. Participate in hackathons, design sprints and entrepreneurial initiatives that turn concepts into reality.\nStudent Groups\nExplore the Campus\nGet your student athletics ticket\nMarvel at Gothic architecture\nTour Duke Chapel\nStroll in Sarah P. Duke Gardens\nBrowse the Nasher Museum of Art\nCatch a Duke Arts performance\nGrab a bite to eat\nGo Blue Devils!\nMore than a mascot, Duke’s Blue Devil personifies the university’s spirit. The character’s origin isn’t infernal, but French. A century ago, students took inspiration from stylish Alpine troopers whose grit had earned them the sobriquet les Diables Bleus.\nDetails of the Devil: The History of Duke’s Mascot\nLife in Durham\nDiscover a city where local charm and innovation thrive. Savor bold flavors, explore inspiring art, find unique shops, and experience captivating entertainment.\nConnect with the passionate individuals driving Durham’s vibrant scene and understand why the city’s commitment to local culture makes it an essential destination.\nDiscover Durham",
+  "interesting_links": [
+    {
+      "url": "https://masters.pratt.duke.edu/admissions/",
+      "text": "Why Duke?",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/apply/",
+      "text": "How to Apply",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/admissions/tuition-financial-aid/",
+      "text": "Tuition & Financial Aid",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/admissions/admitted/",
+      "text": "Admitted Students",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/programs/",
+      "text": "Degree Programs",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/programs/certificates/",
+      "text": "Certificates & Specializations",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/programs/degree-requirements/",
+      "text": "Degree Requirements",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/programs/options/",
+      "text": "Flexible Options",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/life/",
+      "text": "Life at Duke",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/life/career-services/",
+      "text": "Career Services",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/life/students/",
+      "text": "Student Resources",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/news/",
+      "text": "News",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/events/",
+      "text": "Events",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/life/students/",
+      "text": "Student Resources",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/people/",
+      "text": "Directory",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/apply",
+      "text": "Apply",
+      "source": "navigation",
+      "priority": 1
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/contact/",
+      "text": "Contact",
+      "source": "content",
+      "priority": 2
+    },
+    {
+      "url": "https://masters.pratt.duke.edu/industry/",
+      "text": "Industry Relations",
+      "source": "content",
+      "priority": 2
+    }
+  ]
+}
