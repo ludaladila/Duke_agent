@@ -39,11 +39,12 @@ source .venv/bin/activate  # Unix/macOS
 
 3. Install dependencies:
 ```bash
-pip install langchain langchain-openai python-dotenv beautifulsoup4
+cd agent
+pip install -r requirements.txt
 ```
 
 4. Configure environment variables:
-   - Copy `.env.example` to `.env`
+   - set the `.env`
    - Set your OpenAI API key in the `.env` file:
 ```
 OPENAI_API_KEY=your-api-key-here
@@ -88,3 +89,9 @@ print(result)
 ## Notes
 
 - Ensure your OpenAI API key and DUKE API is properly set up before use
+
+## Evaluation
+The agent was evaluated using human evaluation and an LLM (Gemini 2.0-flash)to judge the response. Over four different prompts each using multiple tools, the LLM rated each response from 1-10 and returned a mean rating of 6.5. On human evaluation, each response was judged on its validity. 3 responses were successful while one interpreted the LLM course as a Law Degree course, 3/4, 75% accurate.
+
+## Demo
+http://3.14.136.75:8501/
